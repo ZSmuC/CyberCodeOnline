@@ -37,7 +37,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Souhaitez-vous acheté des Unités, ou les utiliser ?"
+ 	 	 	 	 	"Souhaitez-vous acheter des Unités, ou les utiliser ?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
@@ -108,7 +108,7 @@
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Votre ordinateur personnel, quoique un peu vieillissant, peut faire le boulot avec un peu de patience",
+ 	 	 	 	"trans": "Votre ordinateur personnel, quoique un peu dépassé , peut faire le boulot avec un peu de patience",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
@@ -117,7 +117,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Je vous aiderai à accèder à la nouvelle zone !"
+ 	 	 	 	 	"Je vous aiderai à accéder à la nouvelle zone !"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll help you to progress to the next area!"
@@ -206,7 +206,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Recycleur entièrement automatisé, capable de recycler des objets en simple morceaux",
+ 	 	 	 	"trans": "Recycleur entièrement automatisé, capable de recycler des objets en simple ferraille",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
