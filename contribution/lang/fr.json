@@ -1833,7 +1833,7 @@
  	 	 	 	"eng": "Bio"
  	 	 	},
  	 	 	"bioNotFound": {
- 	 	 	 	"trans": "RÉDIGER",
+ 	 	 	 	"trans": "classifié",
  	 	 	 	"eng": "REDACTED"
  	 	 	},
  	 	 	"equipped": {
@@ -1849,7 +1849,7 @@
  	 	 	 	"eng": "Custom profile image is a donator exclusive feature"
  	 	 	},
  	 	 	"changePictureDescription": {
- 	 	 	 	"trans": "Pour vous fournir la meilleure expérience Free-To-Play, il est nécessaire que toutes les fonctionnalités payées soient cosmétiques telles que les images de profil et les cadres de discussion, \n                                                 ou des buffs globaux qui profitent à tous dans le jeu :) \n                                                 J'espère que vous apprécierez l'expérience sans Pay-to-Win!",
+ 	 	 	 	"trans": "Pour vous fournir la meilleure expérience Free-To-Play, il est nécessaire que toutes les fonctionnalités payantes soient cosmétiques telles que les images de profil et les cadres de discussion, \n                                                 ou des buffs globaux qui profitent à tous dans le jeu :) \n                                                 J'espère que vous apprécierez l'expérience sans Pay-to-Win!",
  	 	 	 	"eng": "To provide the best No Pay-to-Win experience to you, it is necessary that all paid features are cosmetic like profile images & chat frames, \n                                                or global buffs that benefits everyone in game :)\n                                                Hope you enjoy the No Pay-to-Win experience!"
  	 	 	},
  	 	 	"confirm": {
@@ -1997,7 +1997,7 @@
  	 	 	 	"eng": "Language"
  	 	 	},
  	 	 	"langWarning": {
- 	 	 	 	"trans": "Ce pack de langage est open source et est constitué par d'autres joueurs, le texte traduit n'est peut-être pas complet et peut contenir des erreurs. N'hésitez pas à participer à son édition sur notre page Github",
+ 	 	 	 	"trans": "Ce pack de langage est open source avec la contribution d'autres joueurs, le texte traduit n'est peut-être pas complet et peut contenir des erreurs. N'hésitez pas à participer à son édition sur notre page Github",
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"playBackgroundMusic": {
@@ -2173,7 +2173,7 @@
  	 	 	"editMotto": {
  	 	 	 	"modal": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Veuillez entrer le slogan de votre gang",
+ 	 	 	 	 	 	"trans": "Veuillez entrer la devise de votre gang",
  	 	 	 	 	 	"eng": "Please enter your gang motto"
  	 	 	 	 	}
  	 	 	 	},
@@ -2451,7 +2451,7 @@
  	 	 	 	 	"eng": "How many would you like to put in the vault?"
  	 	 	 	},
  	 	 	 	"selectWithdrawItem": {
- 	 	 	 	 	"trans": "Combien voudriez-vous vous retirer de la banque?",
+ 	 	 	 	 	"trans": "Combien voudriez-vous retirer de la banque?",
  	 	 	 	 	"eng": "How many would you like to withdraw from the bank?"
  	 	 	 	}
  	 	 	},
@@ -2763,7 +2763,7 @@
  	 	 	"deleteAccount": {
  	 	 	 	"modal": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Êtes-vous sûr de vouloir supprimer votre compte ? Ceci est irréversible, toutes les informations seront supprimées.",
+ 	 	 	 	 	 	"trans": "Êtes-vous sûr de vouloir supprimer votre compte ? Cette action est irréversible, toutes les informations seront supprimées.",
  	 	 	 	 	 	"eng": "Are you sure you want to delete your account? This is irreversible, all account information will be removed."
  	 	 	 	 	}
  	 	 	 	}
@@ -2789,7 +2789,7 @@
  	 	 	 	"eng": "please register or login with existing account"
  	 	 	},
  	 	 	"asusDescription": {
- 	 	 	 	"trans": "Téléphone ASUS (Zenfone, ROG) possède un bug avec l'écran n'étant pas cliquable, dans le cas, essayez de désactiver votre écran et de remettre à nouveau votre écran, ou mettez cette application à l'arrière-plan et reprenez-la à nouveau. Cela devrait résoudre le problème :)",
+ 	 	 	 	"trans": "Téléphone ASUS (Zenfone, ROG) a un problème d'écran tactile non fonctionnel, si cela arrive, essayez d'éteindre et de rallumer votre écran, ou mettez cette application en arrière-plan et reprenez-la à nouveau. Cela devrait résoudre le problème :)",
  	 	 	 	"eng": "ASUS phone (Zenfone, ROG) has bug with screen being not clickable, in the case, please try turning your screen off and on again, or put this app to background and resume it again. this should fix the issue :)"
  	 	 	}
  	 	},
@@ -2842,7 +2842,7 @@
  	 	 	},
  	 	 	"hasRefererCheckbox": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Activer seulement si vous avez un référant (facultatif)",
+ 	 	 	 	 	"trans": "Activer seulement si vous avez un parrain (facultatif)",
  	 	 	 	 	"eng": "Only check if you have a referer (Optional)"
  	 	 	 	},
  	 	 	 	"title": {
@@ -2915,7 +2915,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"itemSkipMinutes"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Temps libre passer (${itemSkipMinutes} min)",
+ 	 	 	 	 	"trans": "passer librement (${itemSkipMinutes} min)",
  	 	 	 	 	"eng": "Free time skip (${itemSkipMinutes} Min)"
  	 	 	 	},
  	 	 	 	"description": {
@@ -2946,7 +2946,7 @@
  	 	 	},
  	 	 	"confirmModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Confirmer l'tilisation de Skip ?",
+ 	 	 	 	 	"trans": "Confirmer l'utilisation de Skip ?",
  	 	 	 	 	"eng": "Confirm use skip?"
  	 	 	 	},
  	 	 	 	"subtitle": {
@@ -3260,7 +3260,7 @@
  	 	 	 	"eng": "account"
  	 	 	},
  	 	 	"timeSkip": {
- 	 	 	 	"trans": "Temps passés",
+ 	 	 	 	"trans": "ellipse",
  	 	 	 	"eng": "time skip"
  	 	 	},
  	 	 	"calibration": {
@@ -3335,7 +3335,7 @@
  	},
  	"misc": {
  	 	"missing": {
- 	 	 	"trans": "Manque",
+ 	 	 	"trans": "Manquant",
  	 	 	"eng": "missing"
  	 	},
  	 	"name": {
@@ -3367,7 +3367,7 @@
  	 	 	"eng": "Requires"
  	 	},
  	 	"receives": {
- 	 	 	"trans": "Génère",
+ 	 	 	"trans": "Reçoit",
  	 	 	"eng": "Receives"
  	 	},
  	 	"amount": {
@@ -3391,7 +3391,7 @@
  	 	 	"eng": "not tradable"
  	 	},
  	 	"itemUpgradeCapacity": {
- 	 	 	"trans": "Capacité de calibrage",
+ 	 	 	"trans": "Capacité collaborative",
  	 	 	"eng": "Collaboration Capacity"
  	 	},
  	 	"systemStandby": {
@@ -4030,7 +4030,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Félicitations, vous avez augmenter votre ${levelName} !",
+ 	 	 	 	"trans": "Félicitations, vous avez augmenté votre ${levelName} !",
  	 	 	 	"eng": "Congratulation, you have leveled up your ${levelName}!"
  	 	 	},
  	 	 	"fromTo": {
