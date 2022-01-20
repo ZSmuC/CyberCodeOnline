@@ -269,7 +269,7 @@
  	 	},
  	 	"mining": {
  	 	 	"name": {
- 	 	 	 	"trans": "Compétence minière",
+ 	 	 	 	"trans": "Compétence de minage",
  	 	 	 	"eng": "mining skill"
  	 	 	}
  	 	}
@@ -643,7 +643,7 @@
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Est-ce que votre ami et vous avez des maux de tête ? Utilisez un Spray Anti-douleurs™ pour vous soulager !",
+ 	 	 	 	"trans": "Est-ce que vos amis et vous même avez des maux de tête ? Utilisez un Spray Anti-douleurs™ pour vous soulager !",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
@@ -739,7 +739,7 @@
  	 	},
  	 	"hashProcessor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Processeur de hash",
+ 	 	 	 	"trans": "Processeur de hachage",
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
@@ -753,7 +753,7 @@
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +5% plus vite pour 10 minutes (stackable)",
+ 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, sature leurs processeurs synaptiques afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +5% plus vite pour 10 minutes (stackable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
@@ -763,7 +763,7 @@
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +40% plus vite pour 20 minutes (stackable)",
+ 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, sature leurs processeurs synaptiques afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +40% plus vite pour 20 minutes (stackable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
@@ -796,7 +796,7 @@
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Unité de traitement neuronal commercialement utilisée (NPU). Livré avec une IA à usage général. \r\n        Vous pouvez l'utiliser pour déployer un robot qui va farmer un donjon pour vous.",
+ 	 	 	 	"trans": "Unité de traitement neuronal commercialement utilisée (NPU). Livré avec une IA à usage général. \r\n        Vous pouvez l'utiliser pour déployer un robot qui explorera un donjon pour vous.",
  	 	 	 	"eng": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you."
  	 	 	}
  	 	},
@@ -1222,7 +1222,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"escape"
  	 	 	 	],
- 	 	 	 	"trans": "Une grenade flash qui peut être utilisée pour les ennemis aveugles. Augmenter vos chances de s'échapper par ${escape}%",
+ 	 	 	 	"trans": "Une grenade flash pouvant être utilisée pour aveugler les ennemis. Augmente vos chances de s'échapper par ${escape}%",
  	 	 	 	"eng": "A flash grenade that can be used to blind enemies. increasing your chance of escape by ${escape}%"
  	 	 	}
  	 	}
@@ -1340,7 +1340,7 @@
  	 	},
  	 	"gambling1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Jouer au Mega Pachinko",
+ 	 	 	 	"trans": "Jouer au MEGA Pachinko",
  	 	 	 	"eng": "Play MEGA Pachinko Game"
  	 	 	},
  	 	 	"description": {
@@ -1478,11 +1478,11 @@
  	 	 	"eng": "Do you think you are strong enough? take on stronger enemies in dungeon!\r\n                        remember to buy some healing item! you won't regen after battle in dungeon"
  	 	},
  	 	"enemyInRoomDoorError": {
- 	 	 	"trans": "Vous ne pouvez pas utiliser de porte tant qu'il y a toujours des ennemis dans la pièce",
+ 	 	 	"trans": "Vous ne pouvez pas utiliser la porte tant qu'il y a toujours des ennemis dans la pièce",
  	 	 	"eng": "You cannot use door while there is still enemy in room"
  	 	},
  	 	"enemyInCrateDoorError": {
- 	 	 	"trans": "Il est trop dangereux de chercher alors qu'il y a encore des ennemis à proximité.",
+ 	 	 	"trans": "Il est trop dangereux d'inspecter les environs alors qu'il y a encore des ennemis à proximité.",
  	 	 	"eng": "It is too dangerous to search while there are still enemies nearby"
  	 	},
  	 	"loading": {
@@ -1604,7 +1604,7 @@
  	 	 	 	"eng": "Newbie with benefit"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Tuez des ennemis et obtenez un ensemble complet d'articles pour que vous puissiez commencer votre voyage",
+ 	 	 	 	"trans": "Tuez des ennemis et obtenez un ensemble complet d'objets pour que vous puissiez commencer votre voyage",
  	 	 	 	"eng": "Kill some enemies and get a full set of items for you to start your journey"
  	 	 	}
  	 	},
@@ -2289,7 +2289,7 @@
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Aucune erreurs détectées",
+ 	 	 	 	 	"trans": "Aucune erreur détectée",
  	 	 	 	 	"eng": "No error detected"
  	 	 	 	}
  	 	 	},
